@@ -5,5 +5,5 @@
 </div>
 <div>
     <a href="https://github.com/fabianoomendes">
-    <img height="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabianoomendes&layout=compact&langs_count=16&theme=great-gatsby&border_color=none"/>
+    <img height="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabianoomendes&layout=compact&langs_count=16&theme=great-gatsby&border_color=#151515&bg_color=#151515"/>
 </div>
