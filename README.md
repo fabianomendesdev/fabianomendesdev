@@ -6,10 +6,8 @@
 <hr>
 <div>
     <img alt="Fabiano-JS" width="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
+    <img alt="Fabiano-PHP" width="40" height="40" src="https://github.com/fabianoomendes/fabianoomendes/blob/main/icons/php.png">
     <img alt="Fabiano-HTML" width="40" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg">
-    <img alt="Fabiano-CSS" width="40" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg">
-    <!-- <img alt="Fabiano-Java" width="40" heigt="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg"> -->
-    <img alt="Fabiano-Java" width="50" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
-    <img alt="Fabiano-PHP" width="50" heigth="50" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg">
+    <img alt="Fabiano-CSS" width="40" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg">   
 </div>
 <hr/>
