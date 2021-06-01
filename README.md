@@ -1,7 +1,7 @@
 # Hello, world!
 <div>
-    <img height="180em" width="60%" src="https://github-readme-stats.vercel.app/api?username=fabianoomendes&theme=great-gatsby&show_icons=true"/>
-    <img height="180em" width="39.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabianoomendes&layout=compact&langs_count=16&theme=great-gatsby"/>
+    <img height="180em" width="60%" src="https://github-readme-stats.vercel.app/api?username=fabianoomendes&theme=great-gatsby&show_icons=true">
+    <img height="180em" width="39.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabianoomendes&layout=compact&langs_count=16&theme=great-gatsby">
 </div>
 <hr>
 <div>   
