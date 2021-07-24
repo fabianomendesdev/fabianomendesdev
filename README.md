@@ -9,6 +9,8 @@
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img alt="Fabiano-CSS" width="40" height="40" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img alt="Fabiano-Bootstrap" width="40" height="40" src=" https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg">
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img alt="Fabiano-JS" width="40" height="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img alt="Fabiano-PHP" width="40" height="40" src="https://github.com/fabianoomendes/fabianoomendes/blob/main/icons/php.png">
