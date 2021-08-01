@@ -19,6 +19,6 @@
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img alt="Fabiano-MySQL" width="40" height="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img alt="Fabiano-Git" width="40" height="40" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg">
+    <img alt="Fabiano-Git" width="40" height="40" src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg">
 </div>
 <hr/>
