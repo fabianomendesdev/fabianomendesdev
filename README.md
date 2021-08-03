@@ -5,7 +5,7 @@
 </div>
 <hr>
 <div align="center">   
-    <img alt="Fabiano-HTML" width="0.4em" height="40" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg">
+    <img alt="Fabiano-HTML" width="40" height="40" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img alt="Fabiano-CSS" width="40" height="40" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
