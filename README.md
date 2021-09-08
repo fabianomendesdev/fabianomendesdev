@@ -1,12 +1,17 @@
 # Hello, world!
+<img width="30%" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" >
 <div>
     <img height="180em" width="60%" src="https://github-readme-stats.vercel.app/api?username=fabianoomendes&theme=great-gatsby&show_icons=true">
     <img height="180em" width="39.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabianoomendes&layout=compact&theme=great-gatsby&langs_count=16">
 </div>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" >
+
 <div>
-    [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=fabianoomendes&custom_title=This%20is%20a%20title&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-</div>
-<hr>
+    <img src="https://activity-graph.herokuapp.com/graph?username=fabianoomendes&theme=react-dark&hide_border=true&area=true">
+</div>                                                                                                                                        
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <div align="center">   
     <img alt="Fabiano-HTML" width="40" height="40" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -24,4 +29,4 @@
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img alt="Fabiano-MySQL" width="40" height="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg">
 </div>
-<hr/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" >
