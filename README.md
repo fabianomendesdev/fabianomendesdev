@@ -21,6 +21,8 @@
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img alt="Fabiano-JS" width="40" height="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img alt="Fabiano-Jquery" width="42" height="42" src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg">
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img alt="Fabiano-Node" width="45" height="45" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img alt="Fabiano-PHP" width="40" height="40" src="https://github.com/fabianoomendes/fabianoomendes/blob/master/icons/php.png">
