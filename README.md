@@ -29,6 +29,8 @@
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img alt="Fabiano-PHP" width="40" height="40" src="https://github.com/fabianoomendes/fabianoomendes/blob/master/icons/php.png">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img alt="Fabiano-Laravel" width="40" height="40" src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain-wordmark.svg">
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img alt="Fabiano-Java" width="40" height="40" src="https://github.com/fabianoomendes/fabianoomendes/blob/master/icons/Java.png">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img alt="Fabiano-Git" width="43" height="43" src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg">
