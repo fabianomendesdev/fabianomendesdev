@@ -43,6 +43,10 @@
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img alt="Fabiano-MySQL" width="40" height="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img alt="Fabiano-Postgresql" width="40" height="40" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain.svg">
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img alt="Fabiano-SQLite" width="40" height="40" src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg">
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img alt="Fabiano-Android Studio" width="40" height="40" src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img alt="Fabiano-Linux" width="40" height="40" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg">
