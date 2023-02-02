@@ -3,18 +3,18 @@
 <img width="30%" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" >
 <div>
-    <img height="180em" width="60%" src="https://github-readme-stats.vercel.app/api?username=fabianoomendes&theme=great-gatsby&show_icons=true">
-    <a href="https://github.com/fabianoomendes/convoychat">
-    <img height="180em" width="39.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabianoomendes&layout=compact&theme=great-gatsby&langs_count=16">
+    <img height="180em" width="60%" src="https://github-readme-stats.vercel.app/api?username=fabianomendesdev&theme=great-gatsby&show_icons=true">
+    <a href="https://github.com/fabianomendesdev/convoychat">
+    <img height="180em" width="39.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabianomendesdev&layout=compact&theme=great-gatsby&langs_count=16">
     </a>
     <picture>
-        <source srcset="https://github-readme-stats.vercel.app/api?username=fabianoomendes&show_icons=true&theme=dark" media="(prefers-color-scheme: dark)"/>
+        <source srcset="https://github-readme-stats.vercel.app/api?username=fabianomendesdev&show_icons=true&theme=dark" media="(prefers-color-scheme: dark)"/>
     </picture>
 </div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" >
 
 <div>
-    <img src="https://github-readme-activity-graph.cyclic.app/graph?username=fabianoomendes&theme=react-dark&hide_border=true&area=true">
+    <img src="https://github-readme-activity-graph.cyclic.app/graph?username=fabianomendesdev&theme=react-dark&hide_border=true&area=true">
 </div>                                                                                                                                        
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -37,11 +37,11 @@
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img alt="Fabiano-Type Script" width="40" height="40" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img alt="Fabiano-PHP" width="40" height="40" src="https://github.com/fabianoomendes/fabianoomendes/blob/master/icons/php.png">
+    <img alt="Fabiano-PHP" width="40" height="40" src="https://github.com/fabianomendesdev/fabianomendesdev/blob/master/icons/php.png">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img alt="Fabiano-Laravel" width="40" height="40" src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain-wordmark.svg">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img alt="Fabiano-Java" width="40" height="40" src="https://github.com/fabianoomendes/fabianoomendes/blob/master/icons/Java.png">
+    <img alt="Fabiano-Java" width="40" height="40" src="https://github.com/fabianomendesdev/fabianomendesdev/blob/master/icons/Java.png">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img alt="Fabiano-Kotlin" width="40" height="40" src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
